@@ -4,11 +4,9 @@ icon: fa-user
 order: 3
 ---
 
-![Berjuala Island](assets/images/pulau-berjuala.jpg "Berjuala Island")\
+![Berjuala Island](assets/images/pulau-berjuala.jpg "Berjuala Island" )
 
-<img style="float: right;" src="assets/images/pulau-berjuala.jpg">
-
-
+<img src="assets/images/pulau-berjuala.jpg" width="40%">
 
 Hi, My name is Said Al Faraby, and please check out my hometown where I came from, [_Lingga Island_](https://goo.gl/maps/36id6WTC1Re78Aa87), and see [this video](https://www.youtube.com/watch?v=_RccFBOxYHs)
 
