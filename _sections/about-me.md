@@ -8,6 +8,8 @@ order: 3
 
 Hi, My name is Said Al Faraby, and please check out my hometown where I came from, [_Lingga Island_](https://goo.gl/maps/36id6WTC1Re78Aa87), and see [this video](https://www.youtube.com/watch?v=_RccFBOxYHs)
 
+test <span style="color:blue">some *blue* text</span> test
+
 #### Education
 I received M.Sc. in Artificial Intelligence from University of Amsterdam in 2015 under supervision of [Ted Meeds](https://www.linkedin.com/in/tedmeeds/). Before that I completed my B.Sc in Informatics from Telkom University, Bandung, Indonesia.
 
