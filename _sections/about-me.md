@@ -17,6 +17,5 @@ While doing my master, I had a chance to work as research assistant (March 14 - 
 Since 2015, I've been work at [Telkom University](https://saidalfaraby.staff.telkomuniversity.ac.id/) as lecturer, mainly teach Basic Algorithm and Programming, Machine Learning, Intro to NLP. Besides teaching I worked at the Student Affairs department in School of Computing, and now at the University Secretariat.
 
 #### Miscellaneous
-In my spare time I like to play with my kids (so far 2), I also try to read books, mostly non-fiction and self-help books like
-[![](https://www.goodreads.com/images/badge/badge1.jpg)]
-(https://www.goodreads.com/review/list/9265112?shelf=read). At weekends, I do bicycling, and I love futsal too.
+In my spare time I like to play with my kids (so far 2), I also try to read books, mostly non-fiction and self-help books ([my reading list](https://www.goodreads.com/review/list/9265112?shelf=read))
+. At weekends, I do bicycling, and I love futsal too.
