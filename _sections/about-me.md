@@ -1,6 +1,7 @@
 ---
 title: About Me
 cover-photo: assets/images/pulau-berjuala.jpg
+auto-header: none
 icon: fa-user
 order: 3
 ---
