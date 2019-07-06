@@ -1,8 +1,5 @@
 ---
 title: About Me
-cover-photo: assets/images/pulau-berjuala.jpg
-cover-photo-alt: pulau berjuala
-auto-header: none
 icon: fa-user
 order: 1
 ---
