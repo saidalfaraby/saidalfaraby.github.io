@@ -17,5 +17,4 @@ Since 2015, I've been working at School of Computing, [Telkom University](https:
 
 #### Miscellaneous
 In my spare time I like to play with my kids (so far 2), I also try to read books, mostly non-fiction and self-help books ([my reading list](https://www.goodreads.com/review/list/9265112?shelf=read))
-. At weekends, I do [bicycling](
-https://www.strava.com/athletes/sfaraby), and I love futsal too.
+. I love futsal too.
