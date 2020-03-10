@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Said Al Faraby"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/my_photo.JPG"
   bio    : "Try to teach my self and share to others."
   links:
     - label: "Website"
